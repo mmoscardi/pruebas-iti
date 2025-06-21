@@ -1,0 +1,10 @@
+git init : Inicializar repositorio
+git branch : Listado de ramas en el repositorio local
+git checkout -b {nombreRama} : Creo una rama nombreRama basado en la rama actual
+git checkout rama1 : Me cambio a rama1
+git add --all : Agrego todos los cambios al staging area
+git add archivo1.txt: Agrego únicamente archivo1.txt al staging area
+git pull : Obtengo los cambios remotos de la rama actual
+git push : Subo los cambios a la rama remota
+git commit : Commiteo los cambios
+git log : Veo el historial de commits
