@@ -15,7 +15,7 @@ public class Biblioteca {
             int totalPrestamos = 0;
 
             while (true) {
-                System.out.println("\n--- MENÚ ---");
+                System.out.println("--- MENÚ ---");
                 System.out.println("1. Agregar usuario");
                 System.out.println("2. Agregar libro");
                 System.out.println("3. Ver usuarios");
