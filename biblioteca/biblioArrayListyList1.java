@@ -140,10 +140,10 @@ public class biblioArrayListyList1 {
         String numeroDocumento = scanner.nextLine();
         System.out.print("Ingrese nombre: ");
         String nombre = scanner.nextLine();
-        System.out.print("Ingrese teléfono: ");
-        String telefono = scanner.nextLine();
         System.out.print("Ingrese apellido: ");
         String apellido = scanner.nextLine();
+        System.out.print("Ingrese teléfono: ");
+        String telefono = scanner.nextLine();
         System.out.print("Ingrese email: ");
         String email = scanner.nextLine();
         System.out.print("Ingrese dirección: ");
